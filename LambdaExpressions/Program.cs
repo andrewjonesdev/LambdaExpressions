@@ -48,7 +48,7 @@ namespace LambdaExpressions
             }
 
         }
-
+        
         static int Square(int number)
         {
             return number * number;
